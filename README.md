@@ -1,6 +1,4 @@
-# 👋 Olá, eu sou Felipe Reis
-
-Sou apaixonado por **Inteligência com Dados**, conectando **engenharia (de dados), análises exploratórias e predições & tendências, visualização e storytelling** com a minha bagagem em **Controladoria de Empresas e Modelagem Financeira**. Meu perfil é **curioso e interdisciplinar**, e minha visão é transformar dados em decisões estratégicas, transformar reflexões analíticas em ações com impacto positivo! 📊  
+Apaixonado por **Inteligência com Dados**, conectando **engenharia (de dados), análises exploratórias e predições & tendências, visualização e storytelling** com a minha bagagem em **Controladoria de Empresas e Modelagem Financeira**. Meu perfil é **curioso e interdisciplinar**, e minha visão é transformar dados em decisões estratégicas, transformar reflexões analíticas em ações com impacto positivo! 📊  
 
 ---
 
